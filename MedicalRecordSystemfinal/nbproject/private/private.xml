@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MRSProof.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/Nurse.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/PatientInfo.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MRSAddPatientInfo.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MRSMain.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MedicalRecord.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MRSMedicalRecord.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MRSMedicineRecords.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/Prescription.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/User.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MRSMedicalRecordList.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MRSPatientInfo.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/FileReader.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/PrescriptionMedicine.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MedicalRecordSystem.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/Connect.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MRSLogin.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MRSDoctors.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/Patient.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/Doctor.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/Medicine.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MRSAddMedicalRecord.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MRSNurse.java</file>
+            <file>file:/C:/Users/Anton%20Joseph%20Cruz/OneDrive%20-%20Cebu%20Institute%20of%20Technology%20University/Documents/NetBeansProjects/MedicalRecordSystemfinal/src/medicalrecordsystemfinal/MRSRegister.java</file>
+        </group>
+    </open-files>
+</project-private>
